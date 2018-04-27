@@ -1,0 +1,8 @@
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Matlab\bin\x64\Debug\GasBubble.Matlab.dll
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Matlab\bin\x64\Debug\GasBubble.Matlab.pdb
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Matlab\bin\x64\Debug\GasBubbleMatlabModelNative.dll
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Matlab\bin\x64\Debug\ModelIGasBubble.dll
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Matlab\obj\x64\Debug\GasBubble.Matlab.csprojResolveAssemblyReference.cache
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Matlab\obj\x64\Debug\GasBubble.Matlab.csproj.CoreCompileInputs.cache
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Matlab\obj\x64\Debug\GasBubble.Matlab.dll
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Matlab\obj\x64\Debug\GasBubble.Matlab.pdb

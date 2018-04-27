@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/_ReSharper.Caches/ReSharperPlatformVs159_f4b3c358.GasBubbleModel.00
+/.vs/GasBubbleModel/v15
+/$tf

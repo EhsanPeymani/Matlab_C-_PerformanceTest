@@ -1,0 +1,12 @@
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Common\bin\Debug\GasBubble.Common.dll
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Common\bin\Debug\GasBubble.Common.pdb
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Common\obj\Debug\GasBubble.Common.csprojResolveAssemblyReference.cache
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Common\obj\Debug\GasBubble.Common.csproj.CoreCompileInputs.cache
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Common\obj\Debug\GasBubble.Common.dll
+C:\Temp\DHS\GasBubbleModel\GasBubbleModel\GasBubble.Common\obj\Debug\GasBubble.Common.pdb
+D:\TFS\DhsMatlab\GasBubbleModel\GasBubble.Common\bin\Debug\GasBubble.Common.dll
+D:\TFS\DhsMatlab\GasBubbleModel\GasBubble.Common\bin\Debug\GasBubble.Common.pdb
+D:\TFS\DhsMatlab\GasBubbleModel\GasBubble.Common\obj\Debug\GasBubble.Common.csprojResolveAssemblyReference.cache
+D:\TFS\DhsMatlab\GasBubbleModel\GasBubble.Common\obj\Debug\GasBubble.Common.csproj.CoreCompileInputs.cache
+D:\TFS\DhsMatlab\GasBubbleModel\GasBubble.Common\obj\Debug\GasBubble.Common.dll
+D:\TFS\DhsMatlab\GasBubbleModel\GasBubble.Common\obj\Debug\GasBubble.Common.pdb
