@@ -132,7 +132,7 @@ namespace GasBubble.WinForm
             this._plotThread.Start();
             btnPlot.Enabled = false;
             btnStart.Enabled = false;
-            txtResult.Text += $"{DateTime.Now} - Plotting started.{Environment.NewLine}";
+            txtResult.Text += $@"{DateTime.Now} - Plotting started.{Environment.NewLine}";
 
 
             this._plotThread.Join();
